@@ -1,0 +1,65 @@
+ /* Reset some default styles */
+body, h1, h2, p {
+    margin:15px;
+    padding:5px;
+    color:#fff;
+    text-align:centre;
+
+}
+
+img {
+ width:300px;
+ height: auto;
+ padding: 5px;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif ;
+    text-align:centre;
+}
+
+header {
+    background-color:#0d1c30f6;
+    color: #fff;
+    text-align: center;
+    padding: 20px ;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+#about {
+    background-color:rgba(56, 57, 59, 0.959);
+    text-align: centre ;
+    font-size: 18px ;
+}
+
+
+#contact {
+    background-color: rgba(56, 57, 59, 0.959);
+    
+}
+
+footer {
+    background-color:#0d1c30f6;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}

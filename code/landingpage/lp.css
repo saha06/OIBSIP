@@ -1,0 +1,80 @@
+ /* Reset default margin and padding */
+body, h1, h2, p, ul, li {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Set a background image for the hero section */
+.hero {
+    background-image: url('/1\ -\ Copy.webp');
+    background-size: cover;
+    color: #0d0e0dde;
+    text-align: center;
+    padding: 100px;
+    margin: 0;
+}
+
+header {
+    background-color: #f1b308d2;
+    color: #131212;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo img {
+    width: 100px;
+    height: auto ;
+}
+
+nav {
+    background-color: #4d4c4c;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+/* Style the navigation menu */
+ 
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+/* Style the call-to-action button */
+.cta-button {
+    display: inline-block;
+    background-color: #FF5733;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none; 
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Style other sections as needed */
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Add additional styles for other sections as needed */
+
+
+
+
